@@ -1,4 +1,4 @@
-# ꧁⎝ 𓆩༺✧ The Calamity/Aetherside/Dreamscape ✧༻𓆪 ⎠꧂
+# ꧁⎝ 𓆩༺✧ The Calamity/Aetherside ✧༻𓆪 ⎠꧂
 #Y26w885a
 
 ChangeLog:
